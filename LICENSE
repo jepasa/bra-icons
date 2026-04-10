@@ -1,0 +1,107 @@
+BRA-ICONS - LICENCA PROPRIETARIA (USO RESTRITO)
+
+Copyright (c) 2026 UmbrellaWhite Ltda
+Todos os direitos reservados.
+
+AVISO IMPORTANTE
+BRA-Icons e um catalogo proprietario de icones SVG-First, ativos vetoriais, definicoes visuais,
+nomes semanticos, documentacao e materiais relacionados. Salvo quando houver licenca valida
+e autorizacao expressa por escrito do Detentor dos Direitos, nenhum acesso ao repositorio,
+entrega de arquivo, demonstracao, proposta comercial, deploy, homologacao, distribuicao,
+publicacao ou uso interno concede permissao para copiar, modificar, explorar economicamente,
+redistribuir, relicenciar ou disponibilizar o Catalogo.
+
+O uso permitido existe somente dentro do escopo definido nos Termos Comerciais aplicaveis.
+
+1. DEFINICOES
+   "Catalogo" significa o BRA-Icons, incluindo seus arquivos SVG, folhas de estilo,
+   tokens, aliases, nomes semanticos, guias visuais, documentacao, variacoes, manifesto,
+   automacoes de build e demais materiais produzidos pelo Detentor dos Direitos.
+
+   "Ativos" significa os icones, desenhos vetoriais, composicoes, familias visuais,
+   nomenclaturas, metadados e demais elementos que compoem o Catalogo.
+
+   "Componentes de Terceiros" significa bibliotecas, referencias, ferramentas, materiais,
+   fontes, dependencias ou outros itens de terceiros eventualmente usados no processo de
+   desenvolvimento, distribuicao ou integracao, os quais permanecem sujeitos as licencas de
+   seus respectivos titulares.
+
+   "Licenciado" significa a pessoa fisica ou juridica que adquiriu licenca valida e recebeu
+   autorizacao expressa do Detentor dos Direitos.
+
+   "Termos Comerciais" significa a proposta, pedido, contrato, nota fiscal, e-mail de
+   autorizacao ou outro instrumento escrito emitido ou aprovado pelo Detentor dos Direitos
+   que defina o escopo autorizado de uso.
+
+   "Detentor dos Direitos" significa UmbrellaWhite Ltda.
+
+2. TITULARIDADE E RESERVA DE DIREITOS
+   O Catalogo e todos os seus Ativos sao e permanecerao propriedade exclusiva do Detentor dos
+   Direitos. Nenhuma cessao, coautoria, transferencia de titularidade, licenca implicita ou
+   direito alem daqueles expressamente previstos neste instrumento e concedido ao Licenciado.
+
+   Todos os direitos nao expressamente concedidos permanecem integralmente reservados,
+   incluindo direitos autorais, direitos sobre identidade visual, estilo, documentacao,
+   nomenclatura, marca BRA-Icons e demais ativos intelectuais relacionados.
+
+3. CONCESSAO DE LICENCA
+   Sujeito ao pagamento, a contratacao e ao cumprimento desta licenca e dos Termos Comerciais,
+   o Detentor dos Direitos concede ao Licenciado uma licenca limitada, nao exclusiva,
+   intransferivel, nao sublicenciavel e revogavel para:
+   a) usar o Catalogo exclusivamente nos produtos, projetos, dominios, instalacoes, ambientes
+   e marcas autorizados nos Termos Comerciais;
+   b) integrar os Ativos do Catalogo em interfaces, temas, paineis e materiais operacionais do
+   proprio Licenciado dentro do escopo contratado;
+   c) manter copias apenas na medida necessaria para desenvolvimento, build, deploy, backup e
+   continuidade operacional do uso autorizado.
+
+4. RESTRICOES
+   Salvo autorizacao expressa e por escrito do Detentor dos Direitos, e proibido:
+   a) redistribuir, revender, sublicenciar, publicar, compartilhar, transferir ou disponibilizar
+   o Catalogo, total ou parcialmente, a terceiros;
+   b) criar catalogos derivados, forks comerciais, bibliotecas concorrentes ou pacotes publicos
+   a partir do Catalogo ou de seus Ativos;
+   c) remover, ocultar ou alterar avisos de titularidade, creditos, metadados, identificacoes
+   de origem ou termos de licenciamento;
+   d) usar o nome BRA-Icons, sua identidade, sua organizacao semantica ou seus Ativos para dar
+   suporte a produtos de terceiros sem autorizacao previa;
+   e) extrair, adaptar ou replicar o estilo visual do Catalogo para formar biblioteca externa
+   concorrente ou independente do ecossistema autorizado.
+
+5. COMPONENTES DE TERCEIROS
+   Esta licenca cobre exclusivamente os materiais proprietarios do Catalogo. Componentes de
+   Terceiros eventualmente usados no processo de criacao, validacao ou integracao nao tem sua
+   titularidade alterada por este instrumento e continuam sujeitos a suas licencas proprias.
+
+6. AUSENCIA DE LICENCA IMPLICITA
+   Nenhum acesso tecnico, visualizacao de arquivos, compartilhamento operacional, entrega de
+   build, demonstracao comercial ou uso em ambiente interno implica concessao automatica de
+   direitos sobre o Catalogo.
+
+7. RESCISAO
+   O descumprimento desta licenca ou dos Termos Comerciais encerra automaticamente a licenca,
+   independentemente de aviso previo. Em caso de rescisao, o Licenciado deve cessar
+   imediatamente o uso do Catalogo e remover todas as copias sob sua posse ou controle,
+   ressalvadas apenas copias retidas por obrigacao legal ou backup automatico temporario.
+
+8. ISENCAO DE GARANTIAS
+   O CATALOGO E FORNECIDO "NO ESTADO EM QUE SE ENCONTRA" (AS IS), SEM GARANTIAS DE QUALQUER
+   TIPO, EXPRESSAS OU IMPLICITAS, INCLUINDO, SEM LIMITACAO, GARANTIAS DE ADEQUACAO A UM
+   PROPOSITO ESPECIFICO, DISPONIBILIDADE, CONTINUIDADE, COMPATIBILIDADE, SEGURANCA, AUSENCIA
+   DE ERROS E NAO VIOLACAO.
+
+9. LIMITACAO DE RESPONSABILIDADE
+   NA MAXIMA EXTENSAO PERMITIDA POR LEI, O DETENTOR DOS DIREITOS NAO SERA RESPONSAVEL POR
+   DANOS INDIRETOS, INCIDENTAIS, ESPECIAIS, PUNITIVOS, CONSEQUENCIAIS, LUCROS CESSANTES,
+   PERDA DE RECEITA, PERDA DE DADOS OU INTERRUPCAO DE OPERACAO DECORRENTES DO USO OU DA
+   IMPOSSIBILIDADE DE USO DO CATALOGO.
+
+10. LEI APLICAVEL E FORO
+   Salvo disposicao diversa nos Termos Comerciais, esta licenca sera regida pelas leis da
+   Republica Federativa do Brasil. Fica eleito, na medida permitida por lei, o foro do
+   domicilio do Detentor dos Direitos para dirimir controversias decorrentes desta licenca.
+
+11. CONTATO / LICENCIAMENTO
+   Para solicitar autorizacao expressa, termos comerciais, licenciamento, excecoes ou tratar
+   de questoes de propriedade intelectual relacionadas ao Catalogo, contate:
+   contato@umbrellawhite.com
